@@ -1,2 +1,1 @@
-[Website](https://nurullahnergiz.com)   
-[Linkedin](https://www.linkedin.com/in/nurullah-nergiz-375674221/)
+Merhaba, ben Nurullah. Frontend geliştiricisiyim ve en çok React, Vue, JavaScript ve CSS ile çalışıyorum. Web siteleri ve uygulamaları tasarlamak ve geliştirmek konusunda deneyimliyim. Aynı zamanda, açık kaynaklı projelerde katkıda bulunmaktan heyecan duyuyorum. Hedefim, kullanıcı dostu ve işlevsel web uygulamaları oluşturmaktır.
