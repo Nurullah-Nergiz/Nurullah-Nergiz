@@ -1,5 +1,8 @@
 # 💫 About Me:
-Merhaba, ben Nurullah. Frontend geliştiricisiyim ve en çok React, Vue, JavaScript ve CSS ile çalışıyorum. Web siteleri ve uygulamaları tasarlamak ve geliştirmek konusunda deneyimliyim. Aynı zamanda, açık kaynaklı projelerde katkıda bulunmaktan heyecan duyuyorum. Hedefim, kullanıcı dostu ve işlevsel web uygulamaları oluşturmaktır.  <br>
+Hello, I'm Nurullah, front-end developer from Turkey. I have been dealing with Web Technologies since 2016.
+
+For more information, you can visit my portfolio.[Visit](https://nurullahnergiz.com)
+<br>
 
 
 ## 🌐 Socials:
