@@ -1,7 +1,8 @@
 # 💫 About Me:
-Hello, I'm Nurullah, front-end developer from Turkey. I have been dealing with Web Technologies since 2016.
+Hello, I'm a front-end developer from Turkey named Nurullah. Since 2016, I have worked with web technologies.
 
-For more information, you can visit my portfolio.[Visit](https://nurullahnergiz.com)
+Visit my portfolio for additional details.
+[Visit](https://nurullahnergiz.com)
 <br>
 
 
