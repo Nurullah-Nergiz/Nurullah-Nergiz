@@ -1,8 +1,9 @@
 # 💫 About Me:
 Hello, I'm a front-end developer from Turkey named Nurullah. Since 2019, I have worked with web technologies.<br>Visit my portfolio for additional details. 
 
-[![Website](https://img.shields.io/badge/website-000000?logo=Website&logoColor=white)](https://nurullahnergiz.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nurullah-nergiz) 
+[![website nurullahnergiz.com](https://img.shields.io/badge/-transparent?style=social&logo=website&logoColor=%2523FF0000&label=nurullahnergiz.com&labelColor=000000&color=000000&link=https://nurullahnergiz.com/)](https://nurullahnergiz.com/)
+
+[![linkedin nurullah-nergiz](https://img.shields.io/badge/-transparent?style=social&logo=linkedin&logoColor=%2523FF0000&label=nurullah-nergiz&labelColor=000000&color=000000&link=https://linkedin.com/in/nurullah-nergiz)](https://linkedin.com/in/nurullah-nergiz)
 
 ## 🚀 Skills
 * HTML5, CSS3, JavaScript
